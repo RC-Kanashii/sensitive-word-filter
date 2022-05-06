@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.github.toolgood:toolgood-words:3.0.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../ProgramFiles/apache-maven-3.8.5/repositories/io/github/toolgood/toolgood-words/3.0.3.1/toolgood-words-3.0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../ProgramFiles/apache-maven-3.8.5/repositories/io/github/toolgood/toolgood-words/3.0.3.1/toolgood-words-3.0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../ProgramFiles/apache-maven-3.8.5/repositories/io/github/toolgood/toolgood-words/3.0.3.1/toolgood-words-3.0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
